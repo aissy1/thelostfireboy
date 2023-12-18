@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: d8956e2fc2abc1046b7c278ffd2db2b7
+  - enabled: 1
+    path: Assets/Scenes/MainMenus.unity
+    guid: a0f70ce753d0c4d4abef7a05dbcc6784
+  - enabled: 1
+    path: Assets/Scenes/intro.unity
+    guid: e75753306c6497a409e3147879f251a8
+  - enabled: 1
+    path: Assets/Scenes/MenuLevel.unity
+    guid: 4ef97b461056fcb48be2bdc80dd944a6
+  - enabled: 1
+    path: Assets/Scenes/lv 1.unity
+    guid: b35bf159483025845b0fe6bf97cc333f
+  - enabled: 1
+    path: Assets/Scenes/lv 2.unity
+    guid: c4ebfb9383d6b1a479533bbd205bba15
+  - enabled: 1
+    path: Assets/Scenes/lv 4.unity
+    guid: c346803b83a170145a0e64249be87887
+  - enabled: 1
+    path: Assets/Scenes/lv 3.unity
+    guid: f0756439230f7184d84d40b2dba672d7
+  - enabled: 1
+    path: Assets/Scenes/lv 5.unity
+    guid: ea96e5183e3a13c46858aab23f25d9b5
+  - enabled: 1
+    path: Assets/Scenes/lv 6.unity
+    guid: 6da1d09afe7847d40ac94f89024babd4
+  - enabled: 1
+    path: Assets/Scenes/NextLv.unity
+    guid: b49b471c885fe264b8d85fed07e601a0
+  - enabled: 1
+    path: Assets/Scenes/InGameMenus.unity
+    guid: 018ca3a74d9ca9d48878bada5caf74bd
+  - enabled: 1
+    path: Assets/Scenes/Guide.unity
+    guid: 83d860e3319be224e83f5c72030b5e2f
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: 1f67798d1b806bc47847b35c97bab6c9
+  m_configObjects: {}
