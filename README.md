@@ -20,13 +20,13 @@ Game ini dibangun menggunakan :
 - C#
 
 ## Fitur 
-- Pemain memainkan karakter berjalanan ke kanan kiri dan melompat menggunakan tombol A D W
+- Pemain memainkan karakter berjalan ke kanan kiri dan melompat menggunakan tombol A D dan W
 - Pemain dapat menghapus riwayat level dan bintang yang didapat dan memulai bermain dari awal
 - Tiap Chapater terdapat 6 level dan terdapat prolog
 - Pemain harus segere menyelesaikan permainan secepat mungkin untuk mendapatkan 3 bintang
 
 ## Kesimpulan
-"The Lost Fireboy" adalah game petualangan berbasis desktop yang menawarkan pengalaman bermain yang menarik dan penuh tantangan.nDengan elemen petualangan dan teka-teki game ini dirancang untuk memberikan hiburan yang memikat pemain.
+"The Lost Fireboy" adalah game petualangan berbasis desktop yang menawarkan pengalaman bermain yang menarik dan penuh tantangan. Dengan elemen petualangan dan teka-teki game ini dirancang untuk memberikan hiburan yang memikat pemain.
 
 
 ##### Sistem ini disusun oleh :
